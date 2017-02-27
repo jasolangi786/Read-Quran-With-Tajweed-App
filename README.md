@@ -1,4 +1,7 @@
 # Read-Quran-With-Tajweed-App
+
+https://play.google.com/store/apps/details?id=air.com.kashigar.quranwithtajweed
+
 Read Quran with Tajweed App for Android
 
 قرآن تجويد سان پڙهڻ واري ايپ جي ڊويلپر پاران پيغام
